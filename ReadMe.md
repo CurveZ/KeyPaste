@@ -69,7 +69,7 @@ g++ -static -o keypaste.exe keypaste.cpp -luser32 -mwindows
 
 You can download the latest release of KeyPaste.exe from the following link:
 
-<span style="font-size: 16px;">**[💾 Download KeyPaste.exe](https://github.com/CurveZ/KeyPaste/releases/latest/KeyPaste.exe)**</span>
+<span style="font-size: 16px;">**[💾 Download the Latest Release](https://github.com/CurveZ/KeyPaste/releases/latest)**</span>
 
 Simply download the `keypaste.exe` file and run it—no installation required!
 
