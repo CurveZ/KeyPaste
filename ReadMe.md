@@ -81,4 +81,9 @@ Once KeyPaste starts simulating keystrokes, it will continue until all clipboard
 **Use responsibly and ¡ensure the target application is ready to receive the input!**
 
 
+## More Information
+
+For more details, updates, and support, visit the official KeyPaste website:  
+[https://kervels.net/keypaste/](https://kervels.net/keypaste/)
+
 Happy pasting!
