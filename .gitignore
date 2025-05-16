@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Allow specific files
+!.gitignore
+!keypaste.cpp
+!ReadMe.md
+
